@@ -8,6 +8,6 @@
 
 > 贷款总额100万，分30年还款，月利率为0.44%，输入各项值之后，点击计算按钮，获取到的结果如下：
 
-![example](.\resources\example\example.jpg)
+![example](/resources/example/example.jpg)
 
 希望可以帮到你。
